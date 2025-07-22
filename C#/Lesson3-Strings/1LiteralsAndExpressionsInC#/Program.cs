@@ -6,7 +6,8 @@ namespace LiteralsAndExpressionsInCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var str1 = new Literals();
+            Console.WriteLine(str1.ToString());
         }
     }
 }

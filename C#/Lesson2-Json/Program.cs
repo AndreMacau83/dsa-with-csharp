@@ -11,7 +11,7 @@ namespace Json
         {
             try
             {
-                string jsonFilePath = "C:/Labs/Estrutura e Algoritmos/C#/Aula2-Json/bin/file.json";
+                string jsonFilePath = "C:/Labs/Estrutura e Algoritmos/C#/Lesson2-Json/bin/file.json";
 
                 string jsonContent = File.ReadAllText(jsonFilePath);
 

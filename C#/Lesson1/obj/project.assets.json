@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Aula1\\C#.csproj",
+      "projectUniqueName": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson1\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Aula1\\C#.csproj",
+      "projectPath": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson1\\C#.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Aula1\\obj\\",
+      "outputPath": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,11 +42,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -68,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

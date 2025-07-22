@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Aula2-Json\\Aula2-Json.csproj",
+      "projectUniqueName": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson2-Json\\Aula2-Json.csproj",
       "projectName": "Aula2-Json",
-      "projectPath": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Aula2-Json\\Aula2-Json.csproj",
+      "projectPath": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson2-Json\\Aula2-Json.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Labs\\Estrutura e Algoritmos\\C#\\Aula2-Json\\obj\\",
+      "outputPath": "c:\\Labs\\Estrutura e Algoritmos\\C#\\Lesson2-Json\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

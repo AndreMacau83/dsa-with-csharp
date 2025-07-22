@@ -1,0 +1,15 @@
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\bin\Debug\net8.0\1LiteralsAndExpressionsInC#.exe
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\bin\Debug\net8.0\1LiteralsAndExpressionsInC#.deps.json
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\bin\Debug\net8.0\1LiteralsAndExpressionsInC#.runtimeconfig.json
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\bin\Debug\net8.0\1LiteralsAndExpressionsInC#.dll
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\bin\Debug\net8.0\1LiteralsAndExpressionsInC#.pdb
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.AssemblyInfoInputs.cache
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.AssemblyInfo.cs
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.csproj.CoreCompileInputs.cache
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.sourcelink.json
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.dll
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\refint\1LiteralsAndExpressionsInC#.dll
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.pdb
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\1LiteralsAndExpressionsInC#.genruntimeconfig.cache
+C:\Labs\Estrutura e Algoritmos\C#\Lesson3-Strings\1LiteralsAndExpressionsInC#\obj\Debug\net8.0\ref\1LiteralsAndExpressionsInC#.dll
