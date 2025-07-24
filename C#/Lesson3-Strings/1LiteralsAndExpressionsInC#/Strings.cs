@@ -1,4 +1,5 @@
 using System.Globalization;
+using System.Security.AccessControl;
 using System.Text;
 
 namespace LiteralsAndExpressionsInCSharp
@@ -88,6 +89,12 @@ namespace LiteralsAndExpressionsInCSharp
 
             string str14 = $"Cliente {Name} fez {Points:F2} pontos.";
             string str15 = $"Cliente {Name} fez {Points.ToString("F2", CultureInfo.InvariantCulture)} pontos.";
+
+            string str17 = "Hello, World!";
+            char[] arr = str17.ToCharArray(); //Converte a string em um array de caracteres
+            arr[7] = 'W'; //Modifica o caractere específico
+            str17 = new string(arr); //Converte o arry de volta em string
+
             return string.Join("\n", new[] {
                 str1,
                 str2,
@@ -104,7 +111,8 @@ namespace LiteralsAndExpressionsInCSharp
                 str13,
                 str14,
                 str15,
-                str16
+                str16,
+                str17
             });
         }
     }

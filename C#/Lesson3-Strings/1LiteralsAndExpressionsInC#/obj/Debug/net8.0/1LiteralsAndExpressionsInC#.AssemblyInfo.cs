@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1LiteralsAndExpressionsInC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465688646fe8924a90f570f6b8ed034f6642b471")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd08ba2aa8c13e1fe43f20d7642ffda9cad51970")]
 [assembly: System.Reflection.AssemblyProductAttribute("1LiteralsAndExpressionsInC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1LiteralsAndExpressionsInC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
